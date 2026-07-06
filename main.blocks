@@ -1,1 +1,7 @@
-<xml xmlns="https://developers.google.com/blockly/xml"><variables></variables></xml>
+<xml xmlns="https://developers.google.com/blockly/xml"><variables></variables><block type="pxt-on-start" id="iBRg9AnUm_|1x@1P!7TN" x="-314" y="-40"><statement name="HANDLER"><block type="device_print_message" id="zWDU0kL@K6g:{9T7+zkB"><value name="text"><shadow type="text" id="J`7+,umxVc*3Uw]kWd2."><field name="TEXT">Hi!</field></shadow></value></block></statement></block><block type="device_forever" id="An=M(^mVv1^{yfP2)Vl!" x="49" y="-5"><statement name="HANDLER"><block type="basic_show_icon" id="r=:GjL+2i:Z/[vWopkQw"><field name="i">IconNames.Heart</field><next><block type="device_pause" id="Pz]D:/2fA)EgJDWv@ds#"><value name="pause"><shadow type="timePicker" id="wag(}-?;}vqa0h+HiC}k"><field name="ms">500</field></shadow></value><next><block type="basic_show_icon" id="2@lBm|6xPf#YKTN5[RWU"><field name="i">IconNames.SmallHeart</field></block></next></block></next></block></statement></block><block type="device_button_event" id="dH95k2X!T-shr0Zt?!3x" x="-316" y="138"><field name="NAME">Button.A</field><statement name="HANDLER"><block type="device_show_leds" id="?kDdKENv[Wdi#:)C)Wd]"><field name="LEDS">`
+        # . . . # 
+        . # . # . 
+        . . . . . 
+        # . . . # 
+        . # # # .
+        `</field></block></statement></block></xml>

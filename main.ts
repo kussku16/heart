@@ -6,7 +6,6 @@ input.onButtonPressed(Button.A, function () {
         # . . . #
         . # # # .
         `)
-    music._playDefaultBackground(music.builtInPlayableMelody(Melodies.Prelude), music.PlaybackMode.UntilDone)
 })
 basic.showString("Hi!")
 basic.forever(function () {
